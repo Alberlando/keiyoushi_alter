@@ -1,0 +1,9 @@
+ext {
+    extName = 'NhatTruyen'
+    extClass = '.NhatTruyen'
+    themePkg = 'wpcomics'
+    baseUrl = 'https://nhattruyenvn.com'
+    overrideVersionCode = 19
+}
+
+apply from: "$rootDir/common.gradle"

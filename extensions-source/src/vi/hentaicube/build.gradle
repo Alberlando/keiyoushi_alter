@@ -1,0 +1,10 @@
+ext {
+    extName = 'CBHentai'
+    extClass = '.HentaiCB'
+    themePkg = 'madara'
+    baseUrl = 'https://hentaicb.pro'
+    overrideVersionCode = 9
+    isNsfw = true
+}
+
+apply from: "$rootDir/common.gradle"
