@@ -27628,10 +27628,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.56.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.55.apk",
     "lang": "pt-BR",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27640,7 +27640,7 @@
         "name": "Lura Toon",
         "lang": "pt-BR",
         "id": "1108163814448330624",
-        "baseUrl": "https://luratoons.com",
+        "baseUrl": "https://luratoons.net",
         "versionId": 2
       }
     ]
